@@ -1,0 +1,347 @@
+{
+  "Slider": [
+    {
+      "id": "1",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/11/26/acefast1%20(1).jpg",
+      "alt": "dastresiyek"
+    },
+    {
+      "id": "2",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-1%20(1).png",
+      "alt": "dastresido"
+    },
+    {
+      "id": "3",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-4-min.png",
+      "alt": "dastresise"
+    },
+    {
+      "id": "4",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-2-min.png",
+      "alt": "dastresichahar"
+    }
+  ],
+  "Postyek": [
+    {
+      "id": "1",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/11/20/mcdodo-062-11.jpg",
+      "price": "1,385,000",
+      "discount": "400,000",
+      "title": "رابط برق USB دار مک دودو 30 وات مدل Mcdodo CH-062"
+    },
+    {
+      "id": "2",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/09/17/BOOKHOOR-11.jpg",
+      "price": "197,000",
+      "discount": "100,000",
+      "title": "دستگاه بخور سرد مدل W5000"
+    },
+    {
+      "id": "3",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/10/21/mcdodo_ca473_120w-1.jpg",
+      "price": "384,000",
+      "discount": "100,000",
+      "title": "کابل شارژ USB به تایپ سی 120 وات 1.5 متری مک دودو مدل Mcdodo Ca473"
+    },
+    {
+      "id": "4",
+      "image": "https://www.dastresi.com/upload/filemanager/2021/07/17/8600-1.jpg",
+      "price": "179,000",
+      "discount": "30,000",
+      "title": "تبدیل OTG آیفونی مک دودو مدل Mcdodo Otg 8600"
+    },
+    {
+      "id": "5",
+      "image": "https://www.dastresi.com/upload/filemanager/2021/03/16/MCDODO-8700-2.jpg",
+      "price": "319,000",
+      "discount": "50,000",
+      "title": "گیرنده بلوتوث صدا برق مستقیم مک دودو مدل Mcdodo 8700"
+    }
+  ],
+  "Gallery": [
+    {
+      "id": "1",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/cable.png",
+      "alt": "a1"
+    },
+    {
+      "id": "2",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/adaptor.png",
+      "alt": "a2"
+    },
+    {
+      "id": "3",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/powerbank.png",
+      "alt": "a3"
+    },
+    {
+      "id": "4",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/handsfree.png",
+      "alt": "a4"
+    },
+    {
+      "id": "5",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/Holder%20Negahdarande.png",
+      "alt": "a5"
+    },
+    {
+      "id": "6",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/mobadel%20o%20rabet.png",
+      "alt": "a6"
+    },
+    {
+      "id": "7",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/battery.png",
+      "alt": "a7"
+    },
+    {
+      "id": "8",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/gaming.png",
+      "alt": "a8"
+    }
+  ],
+  "New": [
+    {
+      "id": "1",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/19/BSW-0011-33.jpg",
+      "price": "3,128,000",
+      "discription": "پد وایرلس شارژ 3 کاره بیسوس مدل Baseus BS-W531 ",
+      "category": "شارژر وایرلس"
+    },
+    {
+      "id": "2",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/18/Porodo-PBFCH030-22.jpg",
+      "price": "1,290,000",
+      "discription": "پاوربانک و چراغ قوه 10000 میلی آمپر پرودو مدل Porodo PD-PBFCH030",
+      "category": "پاور بانک و جامپ استارتر"
+    },
+    {
+      "id": "3",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/05/15/7220EUFY-11.jpg",
+      "price": "5,695,000",
+      "discription": "ظرف آب حیوانات خانگی انکر Anker eufy Pet Water Fountain مدل T7220",
+      "category": "لوازم خانگی و شخصی"
+    },
+    {
+      "id": "4",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/04/13/POWEROLOGY-PLARSPHBK11.jpg",
+      "price": "2,060,000",
+      "discription": "هولدر رومیزی پاورولوژی مدل Powerology PLARSPH",
+      "category": "هولدر و نگهدارنده"
+    },
+    {
+      "id": "5",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/01/10/4NC-11.jpg",
+      "price": "125,000",
+      "discription": "کاور سیلیکونی هندزفری بلوتوثی مدل Liberty 4 ",
+      "category": "هندزفری بلوتوث دو گوش"
+    },
+    {
+      "id": "6",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/09/18/B8ZZJ0-11.jpg",
+      "price": "ناموجود",
+      "discription": "جویسر قابل حمل مدل Juicer ZZJ08",
+      "category": "انواع گجت های جذاب"
+    },
+    {
+      "id": "7",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/09/17/BOOKHOOR-11.jpg",
+      "price": "197,000",
+      "discription": "دستگاه بخور سرد مدل W5000",
+      "category": "انواع گجت های جذاب"
+    },
+    {
+      "id": "8",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/09/10/RADIO-22.jpg",
+      "price": "ناموجود",
+      "discription": "پاوربانک خورشیدی 16000 میلی آمپر 4 کاره پاورولوژی مدل Powerology PPBCHA49",
+      "category": "انواع گجت های جذاب"
+    },
+    {
+      "id": "9",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/26/BY-K3-11.jpg",
+      "price": "490,000",
+      "discription": "کابل تبدیل مادگی TRS به لایتنینگ بویا BY-K3 ",
+      "category": "کابل-مبدل-رابط"
+    },
+    {
+      "id": "10",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/26/BY-K4-11.jpg",
+      "price": "880,000",
+      "discription": "کابل تبدیل مادگی TRS به Type C بویا BY-K4",
+      "category": "کابل-مبدل-رابط"
+    },
+    {
+      "id": "11",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/23/PPBCHA31-1156.jpg",
+      "price": "8,800,000",
+      "discription": "پاورژنراتور 150 واتی مینی 32000 میلی آمپر پاورولوژی مدل Powerology PPBCHA31",
+      "category": "پاوربانک و جامپ استارتر"
+    }
+  ],
+  "Whyus": [
+    {
+      "id": "1",
+      "image": "https://www.dastresi.com/images/icons/icon2.png",
+      "title": "مشاوره تخصصی برای خرید محصول",
+      "discription": "برای خرید هر محصول با تیم دسترسی در ارتباط باشید تا بهترین انتخاب رو انجام دهید."
+    },
+    {
+      "id": "2",
+      "image": "https://www.dastresi.com/images/icons/icon1.png",
+      "title": "قیمت مناسب با بالاترین کیفیت",
+      "discription": "گروه دسترسی در تلاش است که کالای با کیفیت را با مناسب‌ترین قیمت به دست شما برساند."
+    },
+    {
+      "id": "3",
+      "image": "https://www.dastresi.com/images/icons/icon3.png",
+      "title": "ارسال سریع",
+      "discription": "ارسال از طریق تیپاکس، پست پیشتاز و پیک موتوری (ویژه تهران) صورت می گیرد."
+    },
+    {
+      "id": "4",
+      "image": "https://www.dastresi.com/images/icons/icon4.png",
+      "title": "امکان خرید حضوری",
+      "discription": "مشتری گرامی جهت خرید حضوری می‌توانید به آدرس مندرج در پایین سایت مراجعه نمایید."
+    }
+  ],
+  "Porfrosh": [
+    {
+      "id": "1",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-NIM-1161.jpg",
+      "price": "189,000",
+      "discription": "باتری نیم قلم 10 تایی شیائومی مدل Xiaomi ZI7 ",
+      "category": "باتری آلکالاین"
+    },
+    {
+      "id": "2",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-11.jpg",
+      "price": "189,000",
+      "discription": "باتری قلمی 10تایی شیائومی مدل Xiaomi ZI5",
+      "category": "باتری آلکالاین"
+    },
+    {
+      "id": "3",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/19/Untitled-1.jpg",
+      "price": "2,590,000",
+      "discription": "کیبورد بلوتوثی مافی مدل Mofii Phoenix",
+      "category": "ماوس و کیبورد و پدموس"
+    },
+    {
+      "id": "4",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/19/POMP47-22.jpg",
+      "price": "5,900,000",
+      "discription": "جامپ استارتر و پمپ باد پاورولوژی مدل Powerology PPBCHA47",
+      "category": "پاور بانک و جامپ استارتر"
+    },
+    {
+      "id": "5",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/14/mophie-401307720-11.jpg",
+      "price": "2,200,000",
+      "discription": "شارژر رومیزی وایرلس مگ سیف موفی مدل Mophie 401307720",
+      "category": "شارژر رومیزی"
+    },
+    {
+      "id": "6",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/12/PPHB45-11.jpg",
+      "price": "2,950,000",
+      "discription": "شارژر دیواری و پاوربانک وایرلس 10000 میلی آمپری 22.5 واتی پاورولوژی مدل Powerology PPBCHA45",
+      "category": "پاور بانک و جامپ استارتر"
+    },
+    {
+      "id": "7",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/10/HARMOONY-FE1100-11.jpg",
+      "price": "3,490,000",
+      "discription": "رینگ لایت 18 اینچ 100 واتی هارمونی مدل Harmony FE 1100",
+      "category": "رینگ لایت پایه"
+    },
+    {
+      "id": "8",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/02/0088-1.jpg",
+      "price": "2,550,000",
+      "discription": "هندزفری بلوتوثی ورزشی القایی پاورولوژی مدل Powerology Pwlau008",
+      "category": "هندزفری بلوتوث دو گوش"
+    },
+    {
+      "id": "9",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/09/30/Untitled-1.jpg",
+      "price": "1,797,000",
+      "discription": "شارژر دیواری گان 100 واتی الدینیو مدل Ldnio Q408",
+      "category": "شارژر دیواری"
+    },
+    {
+      "id": "10",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/09/28/LDNIO-Y3-11.jpg",
+      "price": "877,000",
+      "discription": "شارژر رومیزی وایرلس و چراغ رومیزی الدینیو مدل Ldnio Y3",
+      "category": "انواع گجت های جذاب"
+    },
+    {
+      "id": "11",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/09/28/ANKER-8757-11.jpg",
+      "price": "545,000",
+      "discription": "کابل شارژ دوسر تایپ سی 1.8 متری انکر مدل Anker A8757",
+      "category": "دوسر تایپ سی"
+    }
+  ],
+  "Maghalat": [
+    {
+      "id": "1",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/11/03/ssd-external-dastresi-Artboard%201%20copy%203.jpg",
+      "discription": "بهترین هارد اکسترنال SSD: سرعت و امنیت در کنار هم!"
+    },
+    {
+      "id": "2",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/31/round-screen-smart-watch-dastresiArtboard%201%20copy.jpg",
+      "discription": "بهترین ساعت های هوشمند صفحه گرد:قیمت و مدل های برتر در دسترسی"
+    },
+    {
+      "id": "3",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/25/best-powerology-power-bank-dastresiArtboard%201%20copy%202.jpg",
+      "discription": "بهترین پاوربانک پاورولوژی + ۵ مدل از با کیفیت ترین ها"
+    },
+    {
+      "id": "4",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/23/fake-or-original-iphone-charger-dastresi-Artboard%201.jpg",
+      "discription": "راهنمای تشخیص شارژر اصلی آیفون و بهترین جایگزین‌ها"
+    },
+    {
+      "id": "5",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/20/eye-massager-dastresi-Artboard%201%20copy%203.jpg",
+      "discription": "چرا باید از ماساژور چشم استفاده کنید؟"
+    },
+    {
+      "id": "6",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/17/How-does-a-wireless-charger-work-dastresi-Artboard%201.jpg",
+      "discription": "شارژر وایرلس اپل چگونه کار میکند؟"
+    },
+    {
+      "id": "7",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/15/accessories-mobile-store-dastresiArtboard%201.jpg",
+      "discription": "بهترین فروشگاه لوازم جانبی تهران"
+    },
+    {
+      "id": "8",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/14/handsfree-and-headset-dastresiArtboard%201.jpg",
+      "discription": "تفاوت هدفون و هدست و هندزفری در چیست؟"
+    }
+  ],
+  "Post": [
+    {
+      "id": "1",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/20/eye-massager-dastresi-Artboard%201%20copy%203.jpg",
+      "caption": "چرا باید از ماساژور چشم استفاده کنید؟"
+    },
+    {
+      "id": "2",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/20/eye-massager-dastresi-Artboard%201%20copy%203.jpg",
+      "caption": "چرا باید از ماساژور چشم استفاده کنید؟"
+    },
+    {
+      "id": "1839",
+      "title": "jhjhvvnh",
+      "image": "hkjhvn",
+      "body": "hhvnbnb"
+    }
+  ]
+}
